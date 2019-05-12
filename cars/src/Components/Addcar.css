@@ -1,0 +1,11 @@
+.one {
+    text-align: -webkit-center;
+    
+}
+.brand {
+    margin: 20px;
+}
+
+#outlined-email-input {
+    min-width: 20vw;
+}
